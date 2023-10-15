@@ -1,10 +1,14 @@
-# Getting Started with Create React App
+React Swap Component
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Basic Component created with proper Typescript classes to demonstrate the use of UseState hooks along with props drilling.
+![image](https://github.com/naiveContributer/rswap-component/assets/30657414/b9930a87-c7bf-4259-9780-435c4b102203)
 
-## Available Scripts
+We can further extend this to a cycle of 3 circles to swap. Demo of current with 2 circles implementation is added below
 
-In the project directory, you can run:
+![Swap_Comp](https://github.com/naiveContributer/rswap-component/assets/30657414/49ce1e23-bfdd-4934-92d9-1a9bf257d484)
+
+
+Steps to Get Started with and clone the repository:
 
 ### `npm start`
 
@@ -29,18 +33,3 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
