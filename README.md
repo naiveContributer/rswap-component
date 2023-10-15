@@ -1,11 +1,13 @@
 React Swap Component
 
 Basic Component created with proper Typescript classes to demonstrate the use of UseState hooks along with props drilling.
-![image](https://github.com/naiveContributer/rswap-component/assets/30657414/b9930a87-c7bf-4259-9780-435c4b102203)
+
+![Swap_Basic_image](https://github.com/naiveContributer/rswap-component/assets/30657414/45104ba8-f656-4eff-98e7-0ffa882ff050)
+
 
 We can further extend this to a cycle of 3 circles to swap. Demo of current with 2 circles implementation is added below
 
-![Swap_Comp](https://github.com/naiveContributer/rswap-component/assets/30657414/49ce1e23-bfdd-4934-92d9-1a9bf257d484)
+![RSwap_Comp](https://github.com/naiveContributer/rswap-component/assets/30657414/6a434ab3-f366-4aa7-ae53-2c83a8ed2fba)
 
 
 Steps to Get Started with and clone the repository:
