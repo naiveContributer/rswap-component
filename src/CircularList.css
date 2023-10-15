@@ -1,0 +1,16 @@
+.CircularList {
+  border: 1px solid black;
+  padding: 10vh;
+  width: 6vh;
+  height: 16vh;
+  border-radius: 2vh;
+}
+
+.ActionStyling {
+  padding: 10vh;
+  width: 1vh;
+  height: 1vh;
+}
+
+.ButtonStyle {
+}
